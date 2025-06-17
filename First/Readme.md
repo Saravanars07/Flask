@@ -65,8 +65,8 @@ _No build steps or dependencies required!_
 
 ## 📷 Preview
 
-![website image](/img/full website.jpeg)
-(First/img/full website.jpeg)
+![Screenshot](img/full%20website.jpeg)<br>
+
 ---
 
 ## 📄 License
