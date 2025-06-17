@@ -66,7 +66,7 @@ _No build steps or dependencies required!_
 ## 📷 Preview
 
 Single Page Website Preview of the homepage with navbar and sections.<br>
-![website image] (./img/full website.jpeg)
+![website image](./img/full website.jpeg)
 
 ---
 
