@@ -65,7 +65,7 @@ _No build steps or dependencies required!_
 
 ## 📷 Preview
 
-![Single Page Website Preview of the homepage with navbar and sections.*](preview.png)
+![Single Page Website Preview of the homepage with navbar and sections.*](First/img/full website.jpeg)
 
 ---
 
